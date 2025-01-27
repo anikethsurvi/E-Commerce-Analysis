@@ -1,4 +1,5 @@
 OBJECTIVE
+
 As a data analyst for Olist Store Analysis, provide insights on key aspects of e-commerce performance and customer behavior to support decision-making.
 Weekday vs Weekend Performance: Total number of orders comparison and Average payment value for orders.
 High Review Scores and Payment Method: Total number of orders with a review score of 5 and payment type as credit card.
@@ -7,6 +8,7 @@ City-Based Insights: Average price and payment values from customers in São Pau
 Shipping Days vs Review Scores:Analyze the relationship between shipping days (calculated as the difference between order_delivered_customer_date and order_purchase_timestamp) and review scores.
 
 DOMAIN KNOWLEDGE
+
 In the e-commerce domain, revenue generation typically follows several key mechanisms. Here’s a breakdown of how money flows in an e-commerce business:
 Sales Revenue: Olist earns a commission on products sold by third-party sellers.
 Transaction Fees: A fee for processing payments on each sale.
@@ -17,6 +19,7 @@ Subscription Models: Premium seller accounts or buyer memberships.
 Returns & Refunds: Olist may charge for processing returns or restocking.
 
 DATA KNOWLEDGE
+
 Customers_Dataset Table(99441 rows)
 •	customer_id: Unique identifier for each customer.
 •	customer_unique_id: A unique, anonymized ID for the customer.
