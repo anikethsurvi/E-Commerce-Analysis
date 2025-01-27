@@ -91,6 +91,7 @@ Seller_Dataset Table(3095 rows)
 •	seller_state: State where the seller is located.
 
 DATA CLEANING
+
 Customers_Dataset
 •	Checked for null values.
 •	Capitalized each word in the customer_city column.
@@ -156,6 +157,7 @@ Seller_Dataset
 
 
 RELATIONSHIPS(JOINS)
+
 Step 1 :
 Merge Olist_products_dataset (column : product_category_name) & product_category_name_Translation(column:product_category_name)
 
