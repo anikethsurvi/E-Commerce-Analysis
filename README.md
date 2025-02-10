@@ -1,6 +1,6 @@
 OBJECTIVE
 
-As a data analyst for Olist Store Analysis, provide insights on key aspects of e-commerce performance and customer behavior to support decision-making.
+As a data analyst for Olist Store, provide insights on key aspects of e-commerce performance and customer behavior to support decision-making.
 Weekday vs Weekend Performance: Total number of orders comparison and Average payment value for orders.
 High Review Scores and Payment Method: Total number of orders with a review score of 5 and payment type as credit card.
 Delivery Performance: Average number of days taken for order delivery (customer's perspective) for pet_shop.
